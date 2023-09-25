@@ -1,0 +1,134 @@
+[
+    {
+        "ID": 1,
+        "Picture": "https://i.ibb.co/DMD1yX4/edu1.png",
+        "Title": "Educational Supplies for Underprivileged Children",
+        "Category": "education",
+        "Category_bg": "#FF444A33",
+        "Card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "Description": "Provide essential educational supplies to underprivileged children in need. Your donation will help us equip these young learners with books, stationery, and other materials they require for a quality education. Every contribution counts towards building a brighter future for these promising minds.",
+        "Price": 50
+    },
+    {
+        "ID": 2,
+        "Picture": "https://i.ibb.co/N2PK3hg/health3.jpg",
+        "Title": "Medical Equipment for Local Clinic",
+        "Category": "health",
+        "Category_bg": "#0052FF33",
+        "Card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "Description": "Support the acquisition of vital medical equipment for a local clinic serving our community. Your generous contribution will enable us to provide better healthcare services and save lives. Together, we can make a significant impact on the health and well-being of our neighbors.",
+        "Price": 75
+    },
+    {
+        "ID": 3,
+        "Picture": "https://i.ibb.co/y6Rn82M/cloth2.jpg",
+        "Title": "Warm Clothing Drive for Winter",
+        "Category": "clothes",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "Description": "Join our winter clothing drive and help us bring warmth to those in need during the cold season. Your contribution will provide coats, jackets, and blankets to individuals and families facing the harsh winter weather. Together, we can make winter more bearable for our community.",
+        "Price": 30
+    },
+    {
+        "ID": 4,
+        "Picture": "https://i.ibb.co/YfLHyY1/food4.jpg",
+        "Title": "Food Assistance for Vulnerable Families",
+        "Category": "foods",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "Description": "Help us combat food insecurity by providing nutritious meals to vulnerable families in our community. Your donation ensures that no one goes to bed hungry. Together, we can make a difference in the lives of those struggling with food insecurity.",
+        "Price": 40
+    },
+    {
+        "ID": 5,
+        "Picture": "https://i.ibb.co/HPqcc62/edu4.jpg",
+        "Title": "School Books and Supplies for Kids",
+        "Category": "education",
+        "Category_bg": "#FF444A33",
+        "Card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "Description": "Sponsor school books and supplies for children from low-income backgrounds. Your contribution directly impacts their education, ensuring they have the resources needed to excel in school. Let's empower these young minds to reach their full potential.",
+        "Price": 55
+    },
+    {
+        "ID": 6,
+        "Picture": "https://i.ibb.co/GFxtKHZ/health2.jpg",
+        "Title": "Healthcare Access in Underserved Areas",
+        "Category": "health",
+        "Category_bg": "#0052FF33",
+        "Card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "Description": "Support initiatives aimed at improving healthcare access in underserved areas. Your contribution will enable us to bring medical services closer to those who need them the most. Together, we can ensure everyone has access to quality healthcare.",
+        "Price": 90
+    },
+    {
+        "ID": 7,
+        "Picture": "https://i.ibb.co/sFjHkbr/cloth34.jpg",
+        "Title": "Clothing for Homeless Individuals",
+        "Category": "clothes",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "Description": "Donate clothing items to homeless individuals in need of basic essentials. Your generosity will provide warmth, dignity, and comfort to those experiencing homelessness. Let's make a positive impact on the lives of our less fortunate neighbors.",
+        "Price": 25
+    },
+    {
+        "ID": 8,
+        "Picture": "https://i.ibb.co/QCsd8YM/food2.jpg",
+        "Title": "Food Pantry Support for Families",
+        "Category": "foods",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "Description": "Contribute to local food pantries and help feed families facing hunger. Your donation ensures that families have access to essential groceries, easing their financial burdens and providing nourishment. Together, we can fight hunger in our community.",
+        "Price": 35
+    },
+    {
+        "ID": 9,
+        "Picture": "https://i.ibb.co/VBwp9Xt/edu3.jpg",
+        "Title": "Scholarships for Underprivileged Students",
+        "Category": "education",
+        "Category_bg": "#FF444A33",
+        "Card_bg": "#FF444A26",
+        "text_color": "#FF444A",
+        "Description": "Provide scholarships to underprivileged students to access quality education. Your support opens doors for these deserving students, helping them break free from the cycle of poverty and reach their academic goals.",
+        "Price": 60
+    },
+    {
+        "ID": 10,
+        "Picture": "https://i.ibb.co/PCQCj0z/health1.png",
+        "Title": "Medical Outreach in Remote Villages",
+        "Category": "health",
+        "Category_bg": "#0052FF33",
+        "Card_bg": "#0052FF26",
+        "text_color": "#0052FF",
+        "Description": "Support medical outreach programs in remote villages lacking healthcare access. Your donation brings medical services to isolated communities, improving the health and well-being of those in remote areas.",
+        "Price": 80
+    },
+    {
+        "ID": 11,
+        "Picture": "https://i.ibb.co/TbTV5tM/clothe3.jpg",
+        "Title": "Winter Coats for Needy Families",
+        "Category": "clothes",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79C23F26",
+        "text_color": "#79C23F",
+        "Description": "Help provide warm winter coats to families struggling to stay warm. Your contribution ensures that families in need can stay cozy and safe during the cold winter months.",
+        "Price": 20
+    },
+    {
+        "ID": 12,
+        "Picture": "https://i.ibb.co/2F9gTsq/food3.jpg",
+        "Title": "Emergency Food Relief for Crisis Situations",
+        "Category": "foods",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#F8714726",
+        "text_color": "#F87147",
+        "Description": "Contribute to emergency food relief efforts during crisis situations. Your support ensures that individuals and families affected by emergencies have access to essential food supplies when they need them most.",
+        "Price": 45
+    }
+]
