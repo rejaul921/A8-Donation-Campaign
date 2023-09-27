@@ -1,8 +1,7 @@
-# React + Vite
+# The feature of the projects are
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- I have used tailwindCss and react router which provides easy routing to client to page to page
+- visitor can donate by Clicking on donate button
+- Visitor can see descrition of the donation campaign by clicking on card.
+- Visitor can see how huch they have donated 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
