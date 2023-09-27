@@ -1,12 +1,14 @@
 import { Outlet } from "react-router-dom";
-import Banner from "../components/Headed/Header/Banner/Banner";
+import Navbar from "../components/Header/Navbar/Navbar";
+
+
 
 
 const Root = () => {
     return (
         <div>
-            <Banner></Banner>
-            <div>
+            <Navbar></Navbar>
+            <div className="mx-auto w-11/12 px-5">
             <Outlet></Outlet>
             </div>
         </div>
